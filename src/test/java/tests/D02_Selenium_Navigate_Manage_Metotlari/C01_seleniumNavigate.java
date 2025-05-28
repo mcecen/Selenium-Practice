@@ -1,9 +1,9 @@
-package tests.D02_Selenium_Navigate_Metotlari;
+package tests.D02_Selenium_Navigate_Manage_Metotlari;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class seleniumNavigate {
+public class C01_seleniumNavigate {
 
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
