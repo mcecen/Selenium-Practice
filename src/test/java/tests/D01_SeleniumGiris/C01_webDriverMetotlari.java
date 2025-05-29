@@ -51,7 +51,7 @@ public class C01_webDriverMetotlari {
         //6. Sayfa handle degerini yazdirin
         System.out.println(driver.getWindowHandle());
 
-        //7. Sayfa HTML kodlarinda “otomasyon” kelimesi gectigini test edin
+        //7. Sayfa HTML kodlarinda “otomasyon” kelimesi gectigini test edin.
         String expectedHTMLKod = "otomasyon";
         String actualHTMLKod = driver.getPageSource();
 
