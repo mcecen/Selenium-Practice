@@ -1,4 +1,4 @@
-package tests.D03;
+package tests.D03_Locator;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -41,3 +41,4 @@ public class C03_Locator {
 
     }
 }
+
