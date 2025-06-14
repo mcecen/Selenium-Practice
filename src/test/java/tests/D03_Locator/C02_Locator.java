@@ -1,4 +1,4 @@
-package tests.D03;
+package tests.D03_Locator;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -49,3 +49,4 @@ public class C02_Locator {
 
     }
 }
+
