@@ -1,9 +1,7 @@
-package tests.D02_Selenium_Navigate_Manage_Metotlari;
+package tests.D02;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
 
